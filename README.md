@@ -1,0 +1,2 @@
+# angularex
+just for learning
